@@ -25,6 +25,13 @@ export const SECTIONS = {
 const DOCS: {[key: string]: DocCategory[]} = {
   [COMPONENTS]: [
     {
+      id: 'compiler',
+      name: 'Compiler',
+      items: [
+        {id: 'template-compiler', name: 'Template Compiler', examples: ['template-compiler-overview']},
+      ]
+    },
+    {
       id: 'forms',
       name: 'Form Controls',
       items: [

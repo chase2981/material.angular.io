@@ -20,6 +20,13 @@ export class ThemePicker {
   currentTheme;
 
   themes = [
+    // #7ebe2b
+    {
+      primary: '#7ebe2b',
+      accent: '#607D8B',
+      href: 'green-bluegrey.css',
+      isDark: true,
+    },
     {
       primary: '#673AB7',
       accent: '#FFC107',

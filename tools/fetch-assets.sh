@@ -19,7 +19,7 @@ stackblitzDestination=./src/assets/stackblitz/
 materialExamplesDestination=./node_modules/@angular/material-examples
 
 # Git HTTP clone URL for the material2-docs-content repository.
-docsContentRepoUrl="https://github.com/angular/material2-docs-content"
+docsContentRepoUrl="https://github.com/chase2981/material2-docs-content"
 
 # Path to the directory where the docs-content will be cloned.
 docsContentPath=/tmp/material2-docs-content

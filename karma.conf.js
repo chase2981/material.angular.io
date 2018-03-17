@@ -15,6 +15,7 @@ module.exports = function (config) {
       require('karma-browserstack-launcher'),
       require('karma-junit-reporter'),
       require('karma-sauce-launcher'),
+      require('karma-phantomjs-launcher'),
     ],
     files: [
       {pattern: './src/test.ts', watched: false},

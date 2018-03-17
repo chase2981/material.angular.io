@@ -19,3 +19,5 @@ ng build --aot --prod
 firebase use "rd-docs-dev"
 firebase deploy
 
+# todo: add comitizen, semantic-release
+# yarn semantic-release || true
